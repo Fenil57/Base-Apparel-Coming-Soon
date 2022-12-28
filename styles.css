@@ -239,4 +239,8 @@ body {
   .hero__image {
     transform: translateY(-180%);
   }
+  
+  .hero--error {
+  right: 30%;
+}
 }
